@@ -13,4 +13,4 @@ for i in range(0, 5):
     atlanta.dar_like()
 
 for programa in series_e_filmes:
-    programa.imprime()
+    print(programa)

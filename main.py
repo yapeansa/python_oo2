@@ -1,6 +1,6 @@
 #!/bin/python3
 
-from modelo import *
+from programas import *
 
 # Criamos a seguir um objeto filme e um objeto série
 

@@ -30,9 +30,9 @@ playlist_fim_de_semana = Playlist('fim de semana', series_e_filmes)
 
 # Exibimos as representações textuais dos objetos
 
-for programa in playlist_fim_de_semana.listagem:
+for programa in playlist_fim_de_semana:
     print(programa)
 
 # Imprimindo o tamanho da Playlist
 
-print(f'Tamanho da Playlist: {len(playlist_fim_de_semana.listagem)}')
+print(f'Tamanho da Playlist: {len(playlist_fim_de_semana)}')
